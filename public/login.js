@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-function openNewPage() {
-     
-      var newPageUrl = "/public/index.html";
-     
-      window.open(newPageUrl, "_blank");
-    }
+function openNewPageWithDelay() {
+    var newPageUrl = "/public/hid.html";
+    setTimeout(function() {
+        window.open(newPageUrl, "_blank");
+    }, 1000); 
+}
