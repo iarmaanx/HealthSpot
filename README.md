@@ -4,4 +4,4 @@
 Website -- https://iarmaansingh.github.io/HealthSpot/
 
 
-## Screenshots
+### Screenshots
