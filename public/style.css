@@ -110,17 +110,17 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 500px;
+    height: 470px;
     background-color: var(--main-bg-color);
 
 
 }
 
 .container-text img {
-    padding-left: 230px;
-    padding-top:85px;
-    height: 420px;
-    width: 1250px;
+    padding-left: 220px;
+    padding-top:60px;
+    height: 395px;
+    width: 1200px;
 
 
 }
