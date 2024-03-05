@@ -1,5 +1,5 @@
 # HealthSpot 
- Your Health Our Priority 🧑‍⚕️
+ Your Health Our Priority 
  <br>
 
 Website -- https://iarmaansingh.github.io/HealthSpot/
