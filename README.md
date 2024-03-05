@@ -4,9 +4,13 @@
 
 Website -- https://iarmaansingh.github.io/HealthSpot/
 <br>
+<br>
 
 ## Features
 • Generates 9 Digit unique Health ID Number 🪪
+
+<br>
+<br>
 
 ## Screenshot
 <br>
