@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function openNewPage() {
      
-      var newPageUrl = "/public/index.html";
+      var newPageUrl = "/public/main.html";
      
       window.open(newPageUrl, "_blank");
     }
