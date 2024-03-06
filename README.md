@@ -2,7 +2,7 @@
  Your Health Our Priority 
  <br>
 
-Website -- https://iarmaansingh.github.io/HealthSpot/
+This website is hosted at - https://iarmaansingh.github.io/HealthSpot/
 <br>
 <br>
 
