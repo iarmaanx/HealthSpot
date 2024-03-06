@@ -88,7 +88,7 @@ a {
 }
 
 .container{
-    min-height: 140vh;
+    min-height: 100vh;
     background-color: #00befd;
     display: flex;
     justify-content: center;

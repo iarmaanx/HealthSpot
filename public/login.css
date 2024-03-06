@@ -8,19 +8,31 @@
     font-family: 'poppins',sans-serif;
 }
 body{
-    /* background: linear-gradient(#b8abea,#907cd4,#6c4be2); */
-    background-color: #0081CF;
+
+    background: #471ECC;
+    background: radial-gradient(at center top, #471ECC, #182D72);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding: 20px;
 }
+
+p{
+    color: white;
+    font-size: 12px;
+    padding-left: 3px;
+}
+
+h1{
+    color: white;
+}
+
 .container{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 .conta {
@@ -41,7 +53,7 @@ body{
     height: 620px;
     width: 350px;
     border-radius: 30px;
-    background-color: rgba(255, 220, 220, 0.406);
+    background-color: rgba(255, 255, 255, 0.406);
     -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
     border: 3px solid rgba(255, 255, 255, 0.2);
@@ -85,7 +97,7 @@ body{
     border: none;
     border-radius: 10px;
     padding: 7px 45px 0 20px;
-    background: rgba(224, 223, 223, 0.6);
+    background: rgba(255, 255, 255, 0.6);
     backdrop-filter: blur(2px);
     outline: none;
 }
