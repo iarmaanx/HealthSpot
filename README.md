@@ -2,7 +2,7 @@
  Your Health Our Priority 
  <br>
 
-This website is hosted at - https://iarmaansingh.github.io/HealthSpot/
+This website is hosted at - [Click Here](https://myhealthspot.netlify.app/)
 <br>
 <br>
 
