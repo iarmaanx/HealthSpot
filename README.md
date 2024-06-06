@@ -1,5 +1,5 @@
 # HealthSpot 
- Your Health Our Priority 
+ Your health Our priority 
  <br>
 
 This website is hosted at - [Click Here](https://myhealthspot.netlify.app/)
